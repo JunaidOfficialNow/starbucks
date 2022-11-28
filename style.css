@@ -139,11 +139,12 @@ body{
 
 }
 .join-now:hover{
-    cursor: pointer;
-    background-color: #ffffff1f;
+    background-color: rgba(0,0,0,.7);
+    border-color: rgba(0,0,0,.7);
 }
 .signup:hover{
     cursor: pointer;
+    background-color: rgba(0,0,0,.06);
     
 }
 .hr{
@@ -402,4 +403,13 @@ li{
     /* padding-bottom:1.6rem; */
     color: rgba(0,0,0,.58);
 
+}
+.fourth-image{
+    height: 80%;
+}
+.block-btn{
+    margin-bottom:80px;
+}
+.block-heading{
+    margin-top:80px;
 }
